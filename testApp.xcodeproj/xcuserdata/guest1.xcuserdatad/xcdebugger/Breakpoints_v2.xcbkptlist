@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A29437FF-4A93-41C8-9B21-151FA7632517"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CD9B72D-6C55-462A-B985-C6F8CCB70E7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9CD9B72D-6C55-462A-B985-C6F8CCB70E7C - 31e7b718457e8c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(testApp.CityTextView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView)&gt;&gt;, SwiftUI.Spacer, SwiftUI.Button&lt;testApp.ButtonTextView&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(testApp.BackgroundView, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(testApp.CityTextView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView)&gt;&gt;, SwiftUI.Spacer, SwiftUI.Button&lt;testApp.ButtonTextView&gt;, SwiftUI.Spacer)&gt;&gt;)&gt; in testApp.ContentView.body.getter : some"
+                  moduleName = "testApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/testApp/testApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "9CD9B72D-6C55-462A-B985-C6F8CCB70E7C - 449ef149b99adc06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Swift.MainActor () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(testApp.CityTextView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView)&gt;&gt;, SwiftUI.Spacer, SwiftUI.Button&lt;testApp.ButtonTextView&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(testApp.BackgroundView, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(testApp.CityTextView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView, testApp.weatherView)&gt;&gt;, SwiftUI.Spacer, SwiftUI.Button&lt;testApp.ButtonTextView&gt;, SwiftUI.Spacer)&gt;&gt;)&gt; in testApp.ContentView.body.getter : some"
+                  moduleName = "testApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/testApp/testApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
